@@ -1,6 +1,6 @@
 ### Hi! I'm Wesley
 
-I'm a current undergraduate student at [Olin College of Engineering](https://olin.edu) studying Robotics Engineering.
+I'm a robotics engineer from [Olin College of Engineering](https://olin.edu).
 I'm passionate about the power of software and how to use it to create a real-world difference.
 
 Check out my resume [here](https://wesleysoohoo.me/resume.pdf)
