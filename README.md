@@ -3,7 +3,7 @@
 I'm a robotics engineer from [Olin College of Engineering](https://olin.edu).
 I'm passionate about the power of software and how to use it to create a real-world difference.
 
-Check out my resume [here](https://wesleysoohoo.me/resume.pdf)
+Check out my resume [here](http://go.wesleysoohoo.me/resume)
 
 [![Linkedin
 Badge](https://img.shields.io/badge/LinkedIn-wesleysoohoo?&style=flat&logo=Linkedin&logoColor=white&color=0077B5)](https://www.linkedin.com/in/wesleysoohoo/
